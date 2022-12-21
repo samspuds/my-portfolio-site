@@ -19,7 +19,5 @@
     "@vitejs/plugin-react": "^2.2.0",
     "vite": "^3.2.3"
   }
-  "resolutions": {
-    "mini-css-extract-plugin": "2.5.1"
-  }
+  
 }
